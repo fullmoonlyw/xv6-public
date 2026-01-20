@@ -1,3 +1,8 @@
+# =============================================
+# 文件：entry.S
+# 功能：内核入口点
+# 学生：fullmoonlyw
+# =============================================
 # The xv6 kernel starts executing in this file. This file is linked with
 # the kernel C code, so it can refer to kernel symbols such as main().
 # The boot block (bootasm.S and bootmain.c) jumps to entry below.

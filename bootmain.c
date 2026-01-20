@@ -1,3 +1,8 @@
+// ============================================
+// 文件：bootmain.c
+// 功能：加载ELF格式内核镜像
+// 学生：fullmoonlyw
+// ============================================
 // Boot loader.
 //
 // Part of the boot block, along with bootasm.S, which calls bootmain().
