@@ -99,3 +99,4 @@ readseg(uchar* pa, uint count, uint offset)
   for(; pa < epa; pa += SECTSIZE, offset++)
     readsect(pa, offset);
 }
+// [BOOT] µ÷ÊÔĞÅÏ¢ by fullmoonlyw 
