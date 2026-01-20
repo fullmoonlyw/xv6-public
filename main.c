@@ -114,3 +114,4 @@ pde_t entrypgdir[NPDENTRIES] = {
 //PAGEBREAK!
 // Blank page.
 
+// [KERNEL] main() started by fullmoonlyw 
